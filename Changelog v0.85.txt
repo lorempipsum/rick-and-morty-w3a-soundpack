@@ -1,0 +1,9 @@
+Changelog v0.85
+
+-Made air strike voice (Hail satan) louder 
+-Replaced revenge.wav ("when are these people gonna learn") with "Hahaha alright morty you've done it" 
+-added sound effect for "oops" 
+-mixed in default crate collect sound to rick's line in collect.wav
+-replaced watchthis.wav with a generic nervous moan from morty.
+-shortened the "screw that guy..or girl..person" line
+-added a delay to dragonpunch so the "OHHH" should now play as the punch is being delivered, rather than before it
